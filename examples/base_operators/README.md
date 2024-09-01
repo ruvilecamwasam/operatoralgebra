@@ -1,7 +1,5 @@
-# Basic operator manipulation
+# Basic operator algebra
 
-Eventually we will add a list of functions and documentation. In the meantime in Mathematica you can run
+Open the notebook *example_base_operators.nb*, which will take you through the basics of operator manipulation. 
 
-`?Function`
-
-to see documentation for that function.
+In this folder we've included the version of OperatorAlgebra that used when writing this tutorial. However, the current version should also work just fine.
