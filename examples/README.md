@@ -1,3 +1,4 @@
 # Examples
 
-[Click here for the full list of examples.](/toc/)
+[Click here for the full list of examples.](toc/)
+
