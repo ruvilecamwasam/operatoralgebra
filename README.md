@@ -6,4 +6,6 @@ This is a Mathematica package to perform symbolic algebra with operators such as
 
 To get started, check out the [examples](/examples/toc/). We also have [documentation](/documentation/toc/).
 
+See [papers](papers/toc/) for code from papers which used this package.
+
 Feel free to reach out with questions, comments, or suggestions.
