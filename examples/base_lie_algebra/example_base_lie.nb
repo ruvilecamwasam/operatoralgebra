@@ -1,0 +1,71 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 14.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      2040,         63]
+NotebookOptionsPosition[      1530,         45]
+NotebookOutlinePosition[      1965,         62]
+CellTagsIndexPosition[      1922,         59]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Lie algebra computations", "Title",
+ CellChangeTimes->{{3.934161837907282*^9, 3.934161840457192*^9}, {
+  3.9341656716479225`*^9, 3.934165675523603*^9}, {3.934186238241188*^9, 
+  3.9341862401604996`*^9}},ExpressionUUID->"2b0c8e72-36f6-c34d-8eac-\
+7e49f7a894a2"],
+
+Cell[TextData[{
+ "Joseph J Hope & Ruvi Lecamwasam\n",
+ ButtonBox["github.com/ruvilecamwasam/operatoralgebra",
+  BaseStyle->"Hyperlink",
+  ButtonData->{
+    URL["https://github.com/ruvilecamwasam/operatoralgebra"], None},
+  ButtonNote->"https://github.com/ruvilecamwasam/operatoralgebra"],
+ "\n\nThis notebook shows how you can do Lie algebra computations using \
+OperatorAlgebra."
+}], "Text",
+ CellChangeTimes->{{3.934161853540352*^9, 3.93416193089349*^9}, {
+  3.934165676436348*^9, 3.934165697011425*^9}, {3.9341849317852726`*^9, 
+  3.934184933457269*^9}, {3.9341862477115498`*^9, 
+  3.934186253272272*^9}},ExpressionUUID->"75292305-9a61-2445-be4f-\
+07f58dca110e"]
+}, Open  ]]
+},
+WindowSize->{718.5, 825},
+WindowMargins->{{Automatic, -5.25}, {Automatic, 0}},
+Magnification:>1. Inherited,
+FrontEndVersion->"14.0 for Microsoft Windows (64-bit) (December 12, 2023)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"f9d4e565-323c-c447-82ba-c131e4bb36e0"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 266, 4, 98, "Title",ExpressionUUID->"2b0c8e72-36f6-c34d-8eac-7e49f7a894a2"],
+Cell[849, 28, 665, 14, 104, "Text",ExpressionUUID->"75292305-9a61-2445-be4f-07f58dca110e"]
+}, Open  ]]
+}
+]
+*)
+
