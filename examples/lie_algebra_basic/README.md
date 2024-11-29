@@ -1,2 +1,0 @@
-# Basic lie algebra computations
-
