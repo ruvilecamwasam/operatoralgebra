@@ -14,6 +14,6 @@ Here you can find a series of examples to help you learn the functionality of th
 
 ## Lie algebras
 
-[Basic Lie algebra computations](../lie_algebra_basic/)
+[Commutator tables and adjoint representation](../lie_algebra_comm_adjoint/)
 
 Feel free to send us an email if anything is unclear.
